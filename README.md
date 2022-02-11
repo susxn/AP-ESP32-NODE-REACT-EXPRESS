@@ -56,7 +56,7 @@ These runs the app in the development mode. Open [http://localhost:3000](http://
 
 The ESP32 device is programmed with ESP-IDF (Espressif IoT Development Framework). It
 is very easy to learn how to program with this framework, following the steps explained in this
-link: [Get Started](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html/).
+link: [Get Started](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html).
 
 Following the Get Started tutorial, you will have to reproduce an example project called **hello_world**.
 
