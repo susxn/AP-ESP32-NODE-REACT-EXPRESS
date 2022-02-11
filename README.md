@@ -9,7 +9,7 @@ that will allow us to connect the ESP32 to our computer.
 We will use the computer to monitor the movements of the esp32 using the HTTP protocol.
 This diagram represents the schematic of the project:
 
-![System Scheme](SOFT_AP_SERVER/AP.png "System Scheme")
+![System Scheme](https://github.com/susxn/AP-ESP32-NODE-REACT-EXPRESS/blob/main/soft_ap_server/AP.png "System Scheme")
 
 The IP addresses shown at HOME are our particular case. But the ESP32 is configured to
 create a local network with 192.168.4.0/24 addresses.
