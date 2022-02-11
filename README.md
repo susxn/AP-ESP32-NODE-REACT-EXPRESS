@@ -36,7 +36,7 @@ that you configure.
 ### Local Server
 
 The server is programmed with nodejs. To install nodejs and its respective package manager
-npm you can follow the instructions in the following link: [Nodejs & NPM](https://nodejs.org/es/download/package-manager/).
+npm you can follow the instructions in the following link: [Nodejs](https://nodejs.org/es/download/) & [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
 - Install nodejs and npm 
 - Check version. If all has been installed correctly you should get the correct version of each running:
