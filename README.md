@@ -64,7 +64,7 @@ Following the Get Started tutorial, you will have to reproduce an example projec
 
 The project **hello_world** contains one source file in C language inside **main** folder.
 
-Replace **hello_world_main.c** from **hello_world/main** folder to [main.c](ESP-32/main.c) file from **ESP-32** folder.
+Replace **hello_world_main.c** from **hello_world/main** folder to [main.c](https://github.com/susxn/AP-ESP32-NODE-REACT-EXPRESS/blob/main/soft_ap_server/ESP32/main.c) file from **ESP-32** folder.
 
 Below is short explanation of remaining files in the **hello_world** folder.
 
