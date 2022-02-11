@@ -90,8 +90,11 @@ The following are the steps required to compile this project:
 2.In the project directory run make menuconfig (or idf.py menuconfig for cmake).
 
 3.Component config -> LWIP > [x] Enable copy between Layer2 and Layer3 packets.
+
 4.Component config -> LWIP > [x] Enable IP forwarding.
+
 5.Component config -> LWIP > [x] Enable NAT (new/experimental).
+
 6.Build the project and flash it to the ESP32.
 
 A detailed instruction on how to build, configure and flash a ESP-IDF project can also be found the official ESP-IDF guide.
